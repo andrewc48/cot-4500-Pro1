@@ -115,7 +115,7 @@ def main():
     # Three-digit rounding
     rounded_value = round_to_three_digits(exact_value)
     
-    # Compute errors for both chopped and rounded values
+    # Find error in rounded value
     rounded_absolute_error, rounded_relative_error = compute_errors(exact_value, rounded_value)
     
     # Print the results
