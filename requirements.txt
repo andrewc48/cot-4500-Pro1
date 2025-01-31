@@ -1,0 +1,5 @@
+#Requriements for the program
+
+-There are no required third party libraries to run the program designed. 
+
+-The only library used in this program is struct, which is a built in library to python and is used to change the double precision binary string to its floating point form.
